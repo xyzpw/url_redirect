@@ -1,0 +1,25 @@
+body {
+    background-color: #222;
+}
+input {
+    background-color: #333;
+    /*border-radius: 7px;*/
+    border-color: transparent;
+    color: #ccc;
+}
+label, p {
+    color: #ccc;
+}
+button {
+    width: 20ch;
+    height: 5ch;
+    background-color: #111;
+    border-color: transparent;
+    color: #ccc;
+}
+#main {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
